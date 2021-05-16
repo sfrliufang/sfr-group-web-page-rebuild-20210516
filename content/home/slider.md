@@ -39,7 +39,7 @@ item:
     align: left
     overlay_color: '#555'
     overlay_img: 'material-chemistry.png'
-    overlay_filter: 0
+    overlay_filter: 0.9
   - title: 'Physical chemistry'
     content: 'Pump probe laser spectroscopy'
     align: right
