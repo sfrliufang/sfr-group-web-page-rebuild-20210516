@@ -1,30 +1,18 @@
 ---
-title: Enhanced tunable second harmonic generation from twistable interfaces and
-  vertical superlattices in boron nitride homostructures
+title: "The role of fullerene derivatives in perovskite solar cells: electron
+  transporting or electron extraction layers?"
 publication_types:
   - "0"
 authors:
-  - Kaiyuan Yao
-  - Nathan R Finney
-  - Jin Zhang
-  - Samuel L Moore
-  - Lede Xian
-  - Nicolas Tancogne-Dejean
+  - Olivia Fernandez-Delgado
+  - PS Chandrasekhar
+  - Natalia Cano-Sampaio
+  - Zoe C Simon
+  - Alain R Puente-Santiago
   - Fang Liu
-  - Jenny Ardelean
-  - Xinyi Xu
-  - Dorri Halbertal
-  - K Watanabe
-  - T Taniguchi
-  - Hector Ochoa
-  - Ana Asenjo-Garcia
-  - Xiaoyang Zhu
-  - DN Basov
-  - Angel Rubio
-  - Cory R Dean
-  - James Hone
-  - P James Schuck
-publication: Sci. Adv.
+  - Edison Castro
+  - Luis Echegoyen
+publication: J. Mater. Chem. C
 draft: false
 featured: false
 image:
