@@ -12,6 +12,7 @@ authors:
   - Fang Liu
   - Edison Castro
   - Luis Echegoyen
+doi: https://doi-org.stanford.idm.oclc.org/10.1039/D0TC05903J
 publication: J. Mater. Chem. C
 draft: false
 featured: false
