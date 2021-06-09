@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: "Ph.D.: Yale University, Physical Chemistry"
 interests:
   - "Hobbies: Travelling and Badminton"
-social: []
+social:
+  - display:
+      header: false
+    link: mailto:hjzeng@stanford.edu
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: Ph.D., Physical Chemistry
