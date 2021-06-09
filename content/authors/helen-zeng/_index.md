@@ -4,7 +4,7 @@ role: Postdoctoral Scholar, Physical Chemistry
 avatar_filename: avatar.jpg
 bio: "Ph.D.: Yale University, Physical Chemistry"
 interests:
-  - "Hobbies: Travelling and Badminton"
+  - "Hobbies: Traveling and Badminton"
 social:
   - display:
       header: false
