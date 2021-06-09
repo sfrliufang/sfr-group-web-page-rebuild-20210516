@@ -14,7 +14,7 @@ interval: 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: ''
+height: '300px; background-position:center; background-repeat: no-repeat; background-size: cover'
 
 
 item:
