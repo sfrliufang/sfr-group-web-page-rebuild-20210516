@@ -1,7 +1,7 @@
 ---
 title: Helen Zeng
 role: Postdoctoral Scholar, Physical Chemistry
-avatar_filename: helen_zeng.jpg
+avatar_filename: avatar.jpg
 bio: "Ph.D.: Yale University, Physical Chemistry"
 interests:
   - "Hobbies: Travelling and Badminton"
