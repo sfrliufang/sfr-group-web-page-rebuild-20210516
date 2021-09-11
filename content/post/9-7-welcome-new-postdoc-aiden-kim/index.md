@@ -1,5 +1,5 @@
 ---
-title: 9/7 Welcome new postdoc Aiden Kim
+title: 9/7/2021 Welcome new postdoc Aiden Kim
 date: 2021-09-11T17:31:11.354Z
 draft: false
 featured: false
