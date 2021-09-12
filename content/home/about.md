@@ -6,7 +6,7 @@ widget: blank
 widget_id: RECENT-POSTS
 headless: true
 weight: 20
-title: About us
+title: About Us
 subtitle: ""
 active: true
 design:
