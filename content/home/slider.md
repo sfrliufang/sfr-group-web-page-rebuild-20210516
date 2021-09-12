@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/#people
 widget: slider
 headless: true  # This file represents a page section.
-active: true
+active: false
 weight: 11
 
 # ... Put Your Section Options Here (section position etc.) ...
