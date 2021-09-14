@@ -11,6 +11,11 @@ social:
     link: mailto:aidenkim@stanford.edu
     icon_pack: fas
     icon: envelope
+education:
+  courses:
+    - course: Ph.D., Electrical Engineering and Computer Sciences
+      institution: UC Berkeley
+      year: 2021
 email: aidenkim@stanford.edu
 superuser: true
 user_groups:
