@@ -1,6 +1,6 @@
 ---
 title: Aiden Kim
-role: Postdoctoral Scholar
+role: Postdoctoral Scholar, Electrical Engineering and Computer Sciences
 avatar_filename: avatar.png
 bio: "Ph.D.: UC Berkeley, Electrical Engineering and Computer Sciences"
 interests:
