@@ -12,7 +12,7 @@ education:
       institution: University of California, Berkeley
       year: 2021
 email: amygreen@stanford.edu
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
