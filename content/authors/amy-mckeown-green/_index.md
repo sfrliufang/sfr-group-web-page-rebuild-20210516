@@ -1,7 +1,7 @@
 ---
 title: Amy McKeown-Green
 role: 1st year Graduate Student, Physical Chemistry
-avatar_filename: pic_for_alivis_web_amy_.jpg
+avatar_filename: profile_picture.png
 bio: "Hobbies: playing the violin and reading"
 interests:
   - The characterization and synthesis of novel 2D materials.
