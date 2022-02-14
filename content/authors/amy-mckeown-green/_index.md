@@ -13,6 +13,8 @@ education:
       year: 2021
 email: amygreen@stanford.edu
 superuser: false
+user_groups:
+  - Researchers
 ---
 Stanford Graduate Fellow, Physical Chemistry 
 
