@@ -7,7 +7,10 @@ interests:
   - The characterization and synthesis of novel 2D materials.
 social: []
 education:
-  courses: []
+  courses:
+    - course: B.S. Chemistry
+      institution: University of California, Berkeley
+      year: 2021
 email: amygreen@stanford.edu
 superuser: false
 ---
