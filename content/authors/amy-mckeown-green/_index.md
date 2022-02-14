@@ -2,9 +2,9 @@
 title: Amy McKeown-Green
 role: 1st year Graduate Student, Physical Chemistry
 avatar_filename: avatar.jpg
-bio: "Hobbies: playing the violin and reading"
+bio: The characterization and synthesis of novel 2D materials.
 interests:
-  - The characterization and synthesis of novel 2D materials.
+  - "Hobbies: playing the violin and reading"
 social: []
 education:
   courses:
