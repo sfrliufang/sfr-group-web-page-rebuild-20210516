@@ -2,7 +2,7 @@
 title: Amy McKeown-Green
 role: 1st year Graduate Student, Physical Chemistry
 avatar_filename: avatar.jpg
-bio: The characterization and synthesis of novel 2D materials.
+bio: ""
 interests:
   - "Hobbies: playing the violin and reading"
 social:
@@ -26,3 +26,5 @@ Stanford Graduate Fellow, Physical Chemistry
 Undergrad: University of California Berkeley, B.S. Chemistry 2021
 
 Hometown: Acton, CA
+
+Research interests: The characterization and synthesis of novel 2D materials.
