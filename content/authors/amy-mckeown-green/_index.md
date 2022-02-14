@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: The characterization and synthesis of novel 2D materials.
 interests:
   - "Hobbies: playing the violin and reading"
-social: []
+social:
+  - display:
+      header: false
+    link: mailto:amygreen@stanford.edu
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: B.S. Chemistry
