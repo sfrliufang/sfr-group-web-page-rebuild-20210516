@@ -1,10 +1,10 @@
 ---
 title: Amy McKeown-Green
-role: 1st year Graduate Student, Physical Chemistry
+role: Ph.D Student, Physical Chemistry
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - "Hobbies: playing the violin and reading"
+  - "Hobbies: Playing the violin and Reading"
 social:
   - display:
       header: false
@@ -27,4 +27,4 @@ Undergrad: University of California Berkeley, B.S. Chemistry 2021
 
 Hometown: Acton, CA
 
-Research interests: The characterization and synthesis of novel 2D materials.
+Research Interests: Characterization and synthesis of novel 2D materials.
