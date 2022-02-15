@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include two dimensional materials, spectroscopy and
   dynamics.
 interests:
-  - "Hobbies: baking and planting."
+  - "Hobbies: Baking and Planting"
 social:
   - display:
       header: false
