@@ -15,6 +15,6 @@ design:
     image: group-photo-2022-02.jpg
     image_size: cover
 ---
-<p style="text-align: center; font-size: 240%; font-weight: bold; color: #8babc7"> Welcome to the Fang Liu Group </p>
+<p style="text-align: center; font-size: 240%; font-weight: bold; color: #35658f"> Welcome to the Fang Liu Group </p>
 
-<p style="text-align: center; font-size: 120%;"><a href="https://chemistry.stanford.edu/" style="color: #8babc7; font-weight: bold;">Department of Chemistry, Stanford University</a></p>
+<p style="text-align: center; font-size: 120%;"><a href="https://chemistry.stanford.edu/" style="color: #35658f; font-weight: bold;">Department of Chemistry, Stanford University</a></p>
