@@ -1,6 +1,6 @@
 ---
 title: Ashley Saunders
-role: Ph.D Student, Chemistry
+role: Ph.D Student, Physical Chemistry
 avatar_filename: avatar.jpg
 bio: "Undergrad: Penn State, B.S in Chemistry  Hometown: Fairfax, VA "
 interests:
@@ -22,7 +22,7 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Graduate Student, Chemistry
+Graduate Student, Physical Chemistry
 
 Undergrad: The Pennsylvania State University, B.S in Chemistry
 
