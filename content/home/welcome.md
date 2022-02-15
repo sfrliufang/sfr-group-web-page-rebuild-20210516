@@ -17,4 +17,4 @@ design:
 ---
 <p style="text-align: center; font-size: 240%; font-weight: bold; color: gray"> Welcome to the Fang Liu Group </p>
 
-<p style="text-align: center; font-size: 120%;"><a href="https://chemistry.stanford.edu/" style="color: white; font-weight: bold;">Department of Chemistry, Stanford University</a></p>
+<p style="text-align: center; font-size: 120%;"><a href="https://chemistry.stanford.edu/" style="color: gray; font-weight: bold;">Department of Chemistry, Stanford University</a></p>
