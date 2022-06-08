@@ -1,0 +1,26 @@
+---
+title: Dissecting Interlayer Hole and Electron Transfer in Transition Metal
+  Dichalcogenide Heterostructures via Two-Dimensional Electronic Spectroscopy
+publication_types:
+  - "2"
+authors:
+  - Veronica R. Policht
+  - Mattia Russo
+  - Fang Liu
+  - Chiara Trovatello
+  - Margherita Maiuri
+  - Yusong Bai
+  - Xiaoyang Zhu
+  - Stefano Dal Conte
+  - and Giulio Cerullo
+doi: https://doi.org/10.1021/acs.nanolett.1c01098
+publication: Nano Letter
+publication_short: Nano Lett.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2022-06-08T18:51:16.075Z
+---
