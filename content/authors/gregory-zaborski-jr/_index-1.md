@@ -25,4 +25,4 @@ N﻿SF-GRFP
 
 H﻿ometown: San Clemente, CA
 
-R﻿esearch Interest: Atomic scale engineering and structural and optical characterization of moiré matter.
+R﻿esearch Interest: Atomic scale engineering and structural and optical characterization of moire matter.
