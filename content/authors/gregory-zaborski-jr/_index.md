@@ -8,7 +8,8 @@ education:
   courses:
     - course: B.S. Mechanical Engineering, 2019
       institution: University of California, Berkeley
-superuser: false
+email: gzjr@stanfod.edu
+superuser: true
 ---
 N﻿SF-GRFP
 
