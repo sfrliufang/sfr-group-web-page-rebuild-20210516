@@ -15,6 +15,7 @@ education:
   courses:
     - course: B.S. Mechanical Engineering, 2019
       institution: University of California, Berkeley
+      year: 2019
 email: gzjr@stanfod.edu
 superuser: true
 user_groups:
