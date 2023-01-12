@@ -1,7 +1,7 @@
 ---
 title: Gregory Zaborski Jr.
 role: "Ph.D. Student, Materials Science & Engineering "
-avatar_filename: avatar.jpg-png.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - "Hobbies:"
