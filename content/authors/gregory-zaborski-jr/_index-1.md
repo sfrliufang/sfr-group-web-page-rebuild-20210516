@@ -19,7 +19,7 @@ education:
 email: gzjr@stanfod.edu
 superuser: true
 user_groups:
-  - Researchers
+  - Postdoc
 ---
 N﻿SF-GRFP
 
