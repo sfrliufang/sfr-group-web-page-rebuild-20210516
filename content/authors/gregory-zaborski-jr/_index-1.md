@@ -1,5 +1,5 @@
 ---
-title: Gregory Zaborski Jr
+title: Gregory Zaborski Jr.
 role: "Ph.D Student, Materials Science & Engineering "
 avatar_filename: ""
 bio: ""
