@@ -1,5 +1,5 @@
 ---
-title: 10/2023 We install our new Carbide laser!!!
+title: 10/2023 We installed our new Carbide laser!!!
 date: 2023-04-26T23:06:34.725Z
 draft: false
 featured: false
