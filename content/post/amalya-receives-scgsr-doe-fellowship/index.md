@@ -1,5 +1,5 @@
 ---
-title: "Amalya receives SCGSR DOE fellowship "
+title: "05/01/2023 Amalya receives SCGSR DOE fellowship "
 date: 2023-06-01T16:42:52.394Z
 draft: false
 featured: false
