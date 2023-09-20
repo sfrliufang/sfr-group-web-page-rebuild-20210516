@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A﻿my, Ashley, and Greg went to the PULSE poster session to meet with prospective students. It was so much fun talking about science with everyone!!!
+A﻿my, Ashley, and Greg went to the PULSE poster session to meet with prospective students. It was so much fun talking about science with everyone!!! (picture credit: Greg)
