@@ -1,6 +1,6 @@
 ---
-title: 10/25/2023
-subtitle: Amy and Ashely present at the NNCI Annual Conference
+title: 10/25/2023 Amy and Ashely present at the NNCI Annual Conference
+subtitle: ""
 date: 2023-10-27T22:42:35.572Z
 draft: false
 featured: false
