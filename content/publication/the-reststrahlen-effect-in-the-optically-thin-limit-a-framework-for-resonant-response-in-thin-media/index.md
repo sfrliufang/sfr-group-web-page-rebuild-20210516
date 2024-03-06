@@ -12,8 +12,8 @@ authors:
   - Fang Liu
   - and Tony F. Heinz
 doi: https://doi-org./10.1021/acs.nanolett.2c02819
-publication: Nano Letter
-publication_short: Nano Lett.
+publication: ""
+publication_short: Nano Lett. 22(20), 8389–8393
 draft: false
 featured: false
 image:
