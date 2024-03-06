@@ -17,7 +17,7 @@ authors:
   - Luis M Liz-Marzán
   - Fang Liu
   - Jeremy J Baumberg
-publication_short: "Nature Comm.14, 5726 (2023) "
+publication_short: Nature Comm.14, 5726
 draft: false
 featured: false
 image:
