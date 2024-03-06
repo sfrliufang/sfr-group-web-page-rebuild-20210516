@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Fang Liu
 doi: https://doi.org/10.1016/j.progsurf.2021.100626
-publication_short: Prog. Surf. Sci.
+publication_short: Prog. Surf. Sci. 100626
 draft: false
 featured: false
 image:
