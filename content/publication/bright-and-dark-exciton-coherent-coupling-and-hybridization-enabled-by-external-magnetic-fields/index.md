@@ -22,7 +22,7 @@ authors:
   - Denis Karaiskaj
 doi: https://doi.org/10.1021/acs.nanolett.1c04667
 publication: Nano Letter
-publication_short: Nano. Lett.
+publication_short: Nano Lett. 22, 4, 1680–1687
 draft: false
 featured: false
 image:
