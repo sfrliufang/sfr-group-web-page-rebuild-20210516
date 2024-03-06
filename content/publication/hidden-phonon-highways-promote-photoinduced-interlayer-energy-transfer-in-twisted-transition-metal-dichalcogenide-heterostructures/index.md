@@ -2,7 +2,7 @@
 title: Hidden phonon highways promote photoinduced interlayer energy transfer in
   twisted transition metal dichalcogenide heterostructures
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Amalya C Johnson
   - Johnathan D Georgaras
@@ -17,6 +17,7 @@ authors:
   - Duan Luo
   - Felipe H da Jornada
   - Fang Liu
+doi: https://doi.org/10.1126/sciadv.adj8819
 publication_short: Sci. Adv.10, eadj8819
 draft: false
 featured: false
