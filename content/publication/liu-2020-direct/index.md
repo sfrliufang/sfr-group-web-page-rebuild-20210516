@@ -11,7 +11,7 @@ authors:
   - Qiuyang Li
   - X-Y Zhu
 doi: https://doi.org/10.1103/PhysRevB.101.201405
-publication: "*Physical Review B*"
+publication: ""
 featured: true
 tags: []
 categories: []
