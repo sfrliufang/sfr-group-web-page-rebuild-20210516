@@ -17,6 +17,7 @@ authors:
   - Luis M Liz-Marzán
   - Fang Liu
   - Jeremy J Baumberg
+doi: https://doi.org/10.17863/CAM.101514
 publication_short: Nature Comm.14, 5726
 draft: false
 featured: false
