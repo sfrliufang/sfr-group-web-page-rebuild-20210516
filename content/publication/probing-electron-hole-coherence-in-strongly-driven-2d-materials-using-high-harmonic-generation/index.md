@@ -13,7 +13,7 @@ authors:
   - Shambhu Ghimire
 doi: https://doi.org/10.1364/OPTICA.444105
 publication: Optica
-publication_short: Optica
+publication_short: Optica 9(5), 512–516
 draft: false
 featured: false
 image:
