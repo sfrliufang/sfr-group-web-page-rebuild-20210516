@@ -17,7 +17,7 @@ authors:
   - Duan Luo
   - Felipe H da Jornada
   - Fang Liu
-publication_short: Sci. Adv.10, eadj8819 (2024)
+publication_short: Sci. Adv.10, eadj8819
 draft: false
 featured: false
 image:
