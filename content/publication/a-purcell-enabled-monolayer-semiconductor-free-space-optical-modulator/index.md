@@ -14,6 +14,7 @@ authors:
   - Eric Pop
   - Fang Liu
   - Mark L Brongersma
+doi: https://doi.org/10.1038/s41566-023-01250-9
 publication_short: Nat. Photonics, 17, 897–903
 draft: false
 featured: false
