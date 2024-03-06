@@ -13,8 +13,8 @@ authors:
   - David A Reis
   - Shambhu Ghimire
 doi: https://doi.org/10.34133/2021/9820716
-publication: Ultrafast Science
-publication_short: Ultrafast Sci.
+publication: ""
+publication_short: Ultrafast Sci. 2021, 9820716
 draft: false
 featured: false
 image:
