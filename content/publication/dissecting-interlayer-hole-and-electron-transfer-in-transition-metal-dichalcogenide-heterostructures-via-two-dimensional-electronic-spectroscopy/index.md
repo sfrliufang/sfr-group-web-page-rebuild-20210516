@@ -15,7 +15,7 @@ authors:
   - and Giulio Cerullo
 doi: https://doi.org/10.1021/acs.nanolett.1c01098
 publication: Nano Letter
-publication_short: Nano Lett. 2021, 21, 11, 4738–4743
+publication_short: Nano Lett.  21, 11, 4738–4743
 draft: false
 featured: false
 image:
