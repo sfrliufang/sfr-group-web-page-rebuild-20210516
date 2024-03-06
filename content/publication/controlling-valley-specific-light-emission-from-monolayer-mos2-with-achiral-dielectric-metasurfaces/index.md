@@ -16,7 +16,7 @@ authors:
   - Mark L Brongersma
   - Tony F Heinz
   - Jennifer A Dionne
-publication_short: Nano Lett. 23, 13, 6124–6131 (2023)
+publication_short: Nano Lett. 23, 13, 6124–6131
 draft: false
 featured: false
 image:
