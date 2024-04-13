@@ -5,12 +5,7 @@ publication_types:
   - "0"
   - "2"
 authors:
-  - Ludovica Guarneri Ludovica Guarneri Van der Waals-Zeeman Institute
-  - Institute of Physics
-  - University of Amsterdam
-  - Amsterdam
-  - 1098 XH
-  - The Netherlands More by Ludovica Guarneri
+  - Ludovica Guarneri
   - Qitong Li
   - Thomas Bauer
   - Jung-Hwan Song
