@@ -15,6 +15,8 @@ authors:
   - Tony F. Heinz
   - Eric Pop
   - Fang Liu
+doi: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202403504
+publication_short: Small 2024, 2403504, 3.
 draft: false
 featured: false
 image:
