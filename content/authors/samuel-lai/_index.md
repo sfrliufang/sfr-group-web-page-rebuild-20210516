@@ -12,6 +12,8 @@ social:
 organizations: []
 email: samlaice@stanford.edu
 superuser: false
+user_groups:
+  - Researchers
 ---
 **Ph.D. Student, Materials Science & Engineering**
 
