@@ -16,7 +16,7 @@ education:
   courses:
     - course: B.S. in chemistry
       institution: Penn State University
-      year: 2019
+      year: 2020
 email: aps12@stanford.edu
 superuser: true
 user_groups:
