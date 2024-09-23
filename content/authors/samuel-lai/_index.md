@@ -1,8 +1,9 @@
 ---
 title: Samuel Lai
 role: Ph.D. Student, Materials Science & Engineering
-avatar_filename: photo_2024-09-23-16.24.17.jpeg
+avatar_filename: avatar.jpg
 bio: "Hobbies: Bouldering, Baking, Cooking"
 social: []
+email: samlaice@stanford.edu
 superuser: false
 ---
