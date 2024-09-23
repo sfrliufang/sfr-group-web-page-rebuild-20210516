@@ -18,7 +18,7 @@ education:
       institution: Penn State University
       year: 2019
 email: aps12@stanford.edu
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
