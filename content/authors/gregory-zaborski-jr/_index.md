@@ -4,7 +4,9 @@ role: "Ph.D. Student, Materials Science & Engineering "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - "Hobbies:"
+  - Hobbies:Surfing
+  - sports
+  - and cooking.
 social:
   - display:
       header: false
