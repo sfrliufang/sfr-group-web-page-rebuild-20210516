@@ -15,7 +15,7 @@ social:
     icon: envelope
 education:
   courses:
-    - course: B.S. Mechanical Engineering, 2019
+    - course: B.S. Mechanical Engineering
       institution: University of California, Berkeley
       year: 2019
 email: gzjr@stanfod.edu
