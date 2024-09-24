@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - "Hobbies: Surfing"
-  - sports
+  - other sports
   - and cooking.
 social:
   - display:
