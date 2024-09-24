@@ -4,8 +4,7 @@ role: "Ph.D. Candidate, Materials Science & Engineering "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - "Hobbies: Surfing"
-  - other sports
+  - "Hobbies: Sports"
   - and cooking.
 social:
   - display:
