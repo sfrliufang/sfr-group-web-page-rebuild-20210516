@@ -11,6 +11,11 @@ social:
     link: mailto:gzjr@stanford.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=eRh2oz4AAAAJ&hl=en
 education:
   courses:
     - course: B.S. Mechanical Engineering
