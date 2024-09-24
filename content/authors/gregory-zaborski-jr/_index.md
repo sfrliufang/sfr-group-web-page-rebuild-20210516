@@ -31,7 +31,7 @@ superuser: true
 user_groups:
   - Researchers
 ---
-Fellowships: N﻿SF-GRFP, DARE:, Pat Tillman Foundation Diversifying Academia, Recruiting Excellence
+Fellowships: N﻿SF-GRFP, Diversifying Academia, Recruiting Excellence (DARE) , Pat Tillman Foundation 
 
 H﻿ometown: San Clemente, CA
 
