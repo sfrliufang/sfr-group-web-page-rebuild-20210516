@@ -16,6 +16,11 @@ social:
     icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=eRh2oz4AAAAJ&hl=en
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gregory-zaborski/
 education:
   courses:
     - course: B.S. Mechanical Engineering
