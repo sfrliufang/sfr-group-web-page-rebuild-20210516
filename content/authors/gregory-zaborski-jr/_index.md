@@ -4,7 +4,7 @@ role: "Ph.D. Student, Materials Science & Engineering "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Hobbies:Surfing
+  - "Hobbies: Surfing"
   - sports
   - and cooking.
 social:
@@ -23,8 +23,8 @@ superuser: true
 user_groups:
   - Researchers
 ---
-N﻿SF-GRFP
+Fellowships: N﻿SF-GRFP, DARE, Pat Tillman Foundation
 
 H﻿ometown: San Clemente, CA
 
-R﻿esearch Interest: Atomic scale engineering and structural and optical characterization of moiré matter.
+R﻿esearch: Atomic scale engineering and structural and optical characterization of moiré matter.
