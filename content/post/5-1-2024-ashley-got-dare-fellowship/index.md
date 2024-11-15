@@ -1,5 +1,5 @@
 ---
-title: 5/1/2024 Ashley got DARE fellowship
+title: 10/25/2024 Fang is named Chambers Fellow
 subtitle: ""
 date: 2024-11-15T18:11:48.543Z
 draft: false
@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Ashley has been awarded Stanford’s DARE fellowship to support her goal of increasing/supporting diversity in the current academic professoriate. Congratulations Ashley!
+Fang have been named a Chambers Fellow for recognition of excellence in teaching and research.
