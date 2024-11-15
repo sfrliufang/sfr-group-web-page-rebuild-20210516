@@ -2,7 +2,6 @@
 title: Qile Li
 role: Postdoc
 avatar_filename: avantar.jpg
-bio: " "
 social:
   - display:
       header: false
@@ -10,4 +9,6 @@ social:
     link: mailto:qileli@stanford.edu
     icon: envelope
 superuser: false
+user_groups:
+  - Researchers
 ---
