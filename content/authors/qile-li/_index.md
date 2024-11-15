@@ -2,6 +2,7 @@
 title: Qile Li
 role: Postdoc
 avatar_filename: avantar.jpg
+bio: " "
 social:
   - display:
       header: false
