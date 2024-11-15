@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     text_color_light: true
-    image: group-photo.jpg
+    image: group_photo.jpeg
     image_size: cover
 ---
 <p style="text-align: center; font-size: 240%; font-weight: bold; color: #ffffff"> Welcome to the Fang Liu Group </p>
