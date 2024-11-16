@@ -1,7 +1,12 @@
 ---
 title: Qile Li
 role: Postdoc
-avatar_filename: avantar.jpg
+avatar_filename: qile_facial.jpeg
+bio: ""
+interests:
+  - Bouldering
+  - music
+  - food
 social:
   - display:
       header: false
@@ -12,3 +17,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
+I﻿ do ARPES, SPM and 2D materials
