@@ -1,7 +1,7 @@
 ---
 title: Qile Li
 role: "Postdoc "
-avatar_filename: qile_facial.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Bouldering
